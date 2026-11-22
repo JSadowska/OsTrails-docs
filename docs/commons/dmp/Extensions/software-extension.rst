@@ -4,10 +4,9 @@ OSTrails Software Extension for maDMPs
 ============================================
 
 .. page-authors::
-
-Maria Grazia Santangelo
-Jozefina Sadowska 
-Tomasz Miksa 
+    Maria Grazia Santangelo
+    Jozefina Sadowska 
+    Tomasz Miksa 
 
 The OSTrails Software Extension for machine-actionable Data Management Plans (maDMPs) defines how software should be represented in maDMPs that comply with the `RDA DMP Common Standard (DCS) for maDMP <https://docs.ostrails.eu/en/latest/commons/dmp/dmp-common-standard.html>`__\ s. The proposed approach represents software as a Dataset and sets ``dataset.type`` to ``"software"``:
 
