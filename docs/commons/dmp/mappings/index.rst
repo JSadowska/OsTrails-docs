@@ -77,3 +77,4 @@ We will add more mappings as we progress with the review.
 
     Science Europe maDMP mapping <science-europe>
     Austrian FWF – maDMP mapping <austrian-fwf>
+    OSTrails Software Extension for maDMPs - Codemeta Mapping <maDMPsoftwareExt-Codemeta>
